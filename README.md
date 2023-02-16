@@ -6,3 +6,5 @@ Just checking!!!
 1. Open index.html in browser
 
 ## Readme updation to test branch merging
+
+Have Fun!
